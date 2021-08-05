@@ -35,9 +35,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 
 <!-- DB -->
-![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDb)
+![MsSQL](https://img.shields.io/badge/-MsSQL-05122A?style=flat&logo=MicrosoftSQLServer)
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)&nbsp;
 
 <!-- 部署 -->
 ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)
