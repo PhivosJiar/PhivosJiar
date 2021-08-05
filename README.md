@@ -23,7 +23,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Express](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=cSharp)&nbsp;
 ![PHP](https://img.shields.io/badge/-Asp.net-05122A?style=flat&logo=.net)
 
 <!-- web -->
