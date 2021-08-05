@@ -55,9 +55,9 @@
 
   <!-- LinkedIn -->
   
-<a href="https://line.me/ti/p/byQk_WjjXU">![Line](https://img.shields.io/badge/-lovingyou871014-05122A?style=flat&logo=line)</a>
+<a href="https://line.me/ti/p/byQk_WjjXU"  target="_blank" rel="noopener">![Line](https://img.shields.io/badge/-lovingyou871014-05122A?style=flat&logo=line)</a>
 
-<a href="https://line.me/ti/p/byQk_WjjXU" target="_blank" rel="noopener">![WhatsApp](https://img.shields.io/badge/-0963817213-05122A?style=flat&logo=whatsapp)</a>
+<a href="https://tel:12244" target="_blank" rel="noopener">![WhatsApp](https://img.shields.io/badge/-0963817213-05122A?style=flat&logo=whatsapp)</a>
 
 ![Gmail](https://img.shields.io/badge/-paulyuancho@gmail.com-05122A?style=flat&logo=gmail)
 
