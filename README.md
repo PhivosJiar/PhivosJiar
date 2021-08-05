@@ -55,7 +55,7 @@
 
   <!-- LinkedIn -->
   
-![Line](https://img.shields.io/badge/-lovingyou871014-05122A?style=flat&logo=line)
+<a href="https://line.me/ti/p/byQk_WjjXU">![Line](https://img.shields.io/badge/-lovingyou871014-05122A?style=flat&logo=line)
 
 ![WhatsApp](https://img.shields.io/badge/-0963817213-05122A?style=flat&logo=whatsapp)
 
