@@ -25,7 +25,8 @@
 
 
 ![SpringBoot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot)&nbsp;
-![PHP](https://img.shields.io/badge/-Asp.net-05122A?style=flat&logo=.net)
+![.net](https://img.shields.io/badge/-Asp.net-05122A?style=flat&logo=.net)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)
 
 <!-- web -->
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
