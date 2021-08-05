@@ -24,7 +24,7 @@
 ![Express](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-Asp.net-05122A?style=flat&logo=.net)
 
 <!-- web -->
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
