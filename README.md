@@ -40,7 +40,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)&nbsp;
 
 <!-- 部署 -->
-![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)
+![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)
 ![heroku](https://img.shields.io/badge/-heroku-05122A?style=flat&logo=heroku)
 ![Consul](https://img.shields.io/badge/-consul-05122A?style=flat&logo=consul)
 
