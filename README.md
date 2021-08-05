@@ -52,8 +52,12 @@
 
 <!-- 聯絡我 -->
 ## ✉️ &nbsp; Reach me:
-<p align="center">
+
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/%E6%89%BF%E7%A5%90-%E9%99%B3-855837201/" target="_blank" rel="noopener noreferrer"> </a>
-</p>
+  
+![Line](https://img.shields.io/badge/-lovingyou871014-05122A?style=flat&logo=line)
+
+![WhatsApp](https://img.shields.io/badge/-0963817213-05122A?style=flat&logo=whatsapp)
+
+![WhatsApp](https://img.shields.io/badge/-paulyuancho@gmail.com-05122A?style=flat&logo=gmail)
 
