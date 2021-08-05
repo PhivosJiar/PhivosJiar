@@ -18,10 +18,11 @@
 <!-- skill -->
 ## 🖥️  &nbsp; Languages and Tools:
 <!-- back -->
-![Java](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Spring](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 
