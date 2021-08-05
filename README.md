@@ -19,7 +19,7 @@
 ## 🖥️  &nbsp; Languages and Tools:
 <!-- back -->
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
 
