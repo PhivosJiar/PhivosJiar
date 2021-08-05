@@ -39,15 +39,15 @@
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)&nbsp;
 
-<!-- 部署 -->
+<!-- CI/CD -->
 ![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins)
 ![heroku](https://img.shields.io/badge/-heroku-05122A?style=flat&logo=heroku)
 ![Consul](https://img.shields.io/badge/-consul-05122A?style=flat&logo=consul)
 
 <!-- IDE -->
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
-![NeoVim](https://img.shields.io/badge/-neovim-05122A?style=flat&logo=neovim)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=VisualStudio)&nbsp;
+![NeoVim](https://img.shields.io/badge/-eclipse-05122A?style=flat&logo=eclipse)&nbsp;
 
 ## ⚙️ &nbsp; GitHub Analytics
 <div>
