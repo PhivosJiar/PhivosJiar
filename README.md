@@ -21,7 +21,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=cSharp)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![Express](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+
 
 
 ![SpringBoot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot)&nbsp;
