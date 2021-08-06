@@ -61,3 +61,9 @@
 
 <a href="https://line.me/ti/p/byQk_WjjXU"  target="_blank" rel="noopener">![Line](https://img.shields.io/badge/-lovingyou871014-05122A?style=flat&logo=line)</a>
   
+  <div class="vcard">
+    <div class="tel">
+        12345555555
+    </div>
+</div>
+  
