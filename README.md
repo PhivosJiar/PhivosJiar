@@ -59,6 +59,6 @@
 
 <a href="tel:+886-963817213" target="_blank" rel="noopener">![WhatsApp](https://img.shields.io/badge/-0963817213-05122A?style=flat&logo=whatsapp)</a>
 
-![Gmail](https://img.shields.io/badge/-paulyuancho@gmail.com-05122A?style=flat&logo=gmail)
+<a href="mailto:paulyuancho@gmail.com" target="_blank" rel="noopener">![Gmail](https://img.shields.io/badge/-paulyuancho@gmail.com-05122A?style=flat&logo=gmail)
 
 
