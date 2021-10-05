@@ -5,7 +5,7 @@
 <img alt="Night Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width=240 height=200 align="right"/>
 
 ## 👨🏻‍💻 About Me:
-<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> I’m currently working on MABOW</h4>
+<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> I’m currently working on MABOW CO., LTD.</h4>
 <h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" />  I’m currently learning Spring boot & Angular </h4> 
 
 <!-- skill -->
