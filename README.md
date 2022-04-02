@@ -10,18 +10,6 @@
 
 <!-- skill -->
 ## 🖥️  &nbsp; Languages and Tools:
-`BACK-END`
-
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=cSharp)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-
-
-
-![SpringBoot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot)&nbsp;
-![.net](https://img.shields.io/badge/-Asp.net-05122A?style=flat&logo=.net)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)
-
 `FRONT-END`
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -36,7 +24,6 @@
 
 ![MsSQL](https://img.shields.io/badge/-MsSQL-05122A?style=flat&logo=MicrosoftSQLServer)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle)&nbsp;
 
 `CI/CD & GIT`
 
@@ -47,8 +34,6 @@
 `IDE`
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=VisualStudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
 
 <!-- 聯絡我 -->
 ## ✉️ &nbsp; Reach me:
