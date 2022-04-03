@@ -19,11 +19,6 @@
 
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 
-`DB`
-
-![MsSQL](https://img.shields.io/badge/-MsSQL-05122A?style=flat&logo=MicrosoftSQLServer)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-
 `CI/CD & GIT`
 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
