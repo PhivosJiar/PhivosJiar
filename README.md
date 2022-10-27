@@ -1,4 +1,4 @@
-<div align="center"><h1>Hi I'm Jiar (Poyuan)
+R<div align="center"><h1>Hi I'm Jiar (Poyuan)
 </h1></div>
 
 <!-- 瀏覽次數 -->
@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me:
 <h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> I’m currently working on MABOW CO., LTD.</h4>
-<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" />  I’m currently learning Angular </h4> 
+<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" />  I’m currently learning R </h4> 
 
 <!-- skill -->
 ## 🖥️  &nbsp; Languages and Tools:
